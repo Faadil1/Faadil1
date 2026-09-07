@@ -67,7 +67,7 @@ The project separates probabilistic agent judgment from deterministic operationa
 
 ## Skeptara — independent challenge before autonomous execution
 
-[Repository](https://github.com/Faadil1/Faadil1-skeptara-telegraph)
+[Repository](https://github.com/Faadil1/skeptara-telegraph)
 
 A pre-execution safety layer for autonomous coding agents. Before a dependency-change pull request can become execution-eligible, Skeptara applies deterministic external risk classification and obtains bounded, paid counter-evidence through Telegraph.
 
