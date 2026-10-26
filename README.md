@@ -45,6 +45,20 @@ Alongside this work, I maintain an active build practice across **AI agents, ana
 
 # Selected public systems
 
+## CRESCO — Stocklana 2026, third place (tie) among 604 submissions
+
+**Co-builder with Benita · Financial-product mechanics · Bounded authority · Solana Devnet**
+
+[Official Solana Foundation winner list](https://hackathons.solana.com/hackathons/stocklana) · [Official Stocklana entry](https://hackathons.solana.com/hackathons/stocklana/projects/2a02ceaa-17c7-45fa-a5a7-cfa6cd88b1c8) · [Source and evidence](https://github.com/Faadil1/cresco) · [Current demo](https://cresco.faadil-casecraft.workers.dev)
+
+Co-developed a financial-agency product where a guardian sets standing boundaries, in-range actions proceed independently, and an out-of-range action needs an exact human-approved exception. Solana Devnet enforces the authority and single-use permission along the demo-token execution path, including refusals for changed or replayed actions.
+
+**External result:** the official Stocklana leaderboard lists CRESCO at third place, tied with two other projects, from 604 submitted projects. The published **$15,000 USD award is a team prize announced by the organizer**, not a claim of an individual or received payout.
+
+**Evidence boundary:** September 2026 Stocklana submission; the public repo also contains later October development. Devnet demo tokens only — no mainnet brokerage, production funds, customer adoption or revenue claims.
+
+---
+
 These projects are the clearest representation of how I currently work: define the decision, build the smallest meaningful mechanism, preserve evidence, test negative paths, and keep claim boundaries explicit.
 
 ## CALLSHEET ZERO — concurrent multi-agent constraint repair
